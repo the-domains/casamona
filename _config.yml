@@ -1,0 +1,28 @@
+name: Casa Mona
+favicon: null
+layout_spectrum: 0.1330654020421207
+typography_spectrum: 0.604146571829915
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.509896022034809
+  lightness: 0.34630101453512907
+  saturation: 0.04950413713231683
+  rhythmicContrast: 0.6011437554843724
+purpose: []
