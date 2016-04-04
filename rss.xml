@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Casa Mona]]></title>
         <description><![CDATA[Casa Mona]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/casamona/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 17:33:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 15:33:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/casamona/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/casamona/64d563a4-5317-4ccd-b02f-f3fda6725d96/index.html</link>
+            <guid isPermaLink="false">64d563a4-5317-4ccd-b02f-f3fda6725d96</guid>
+            <pubDate>Mon, 04 Apr 2016 15:33:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af0395e3-c224-445d-a47a-4398e9781bba.JPG">]]></description>
-            <link>undefined39a6d6e0-9fe2-42a7-9ae3-2502e3ff0455/index.html</link>
+            <link>https://thegrid.ai/casamona/39a6d6e0-9fe2-42a7-9ae3-2502e3ff0455/index.html</link>
             <guid isPermaLink="false">39a6d6e0-9fe2-42a7-9ae3-2502e3ff0455</guid>
             <pubDate>Thu, 10 Mar 2016 17:32:59 GMT</pubDate>
         </item>
